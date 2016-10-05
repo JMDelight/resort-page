@@ -1,12 +1,9 @@
-# _Awesome Adventure Island Webpage_
+# _Flashcards_
 
-#### _This is a webpage for Awesome Adventure Island, 24 May, 2016_
+#### _This is a webpage for a basic flashcard website, 31 May, 2016_
 
-#### By _**Lauren Posey and Joel Delight**_
+#### By _**Maldon Meehan and Joel Delight**_
 
-## Description
-
-_This website is designed for Awesome Adventure Island. It has all the relevant information prospective visitors might want._
 
 ## Setup/Installation Requirements
 
@@ -20,10 +17,10 @@ _If you run into any issues or have any questions, please Email Joel Delight at 
 
 ## Technologies Used
 
-_HTML and CSS were the main tools used. Google font API was used for the fonts._
+_HTML and CSS were the main tools used._
 
 ### License
 
 *Open License*
 
-Copyright (c) 2016 **_Lauren Posey & Joel Delight_**
+Copyright (c) 2016 **_Maldon Meehan & Joel Delight_**
